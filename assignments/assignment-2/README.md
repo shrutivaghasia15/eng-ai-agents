@@ -12,3 +12,9 @@
 4. Add the Hugging Face token to Google Colab Secrets as `HF_TOKEN`.
 5. Update `HF_USER` with your Hugging Face username.
 6. Run all notebook cells in order from top to bottom.
+
+## Trackio Dashboard
+
+The three required experiment runs (`bn-seed0`, `bn-seed1`, and `no-bn-seed0`) are available on the public Trackio dashboard:
+
+https://huggingface.co/spaces/shrutivaghasia/detection-bn-trackio
